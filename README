@@ -1,0 +1,7 @@
+Sign language recognition is important for natural and convenient communication between deaf
+community and hearing majority.
+We take the initial step of automatic fingerspelling system using Support Vector Machines
+(SVMs) and convolutional neural networks (CNNs). We train SVMs, and CNNs for the classification of 24
+alphabets (excluding J and Z). Given the limitations of the datasets and the encouraging results achieved,
+we are confident that with further research and more data, we can produce a fully generalizable
+translator for all ASL letters.
